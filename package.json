@@ -1,0 +1,28 @@
+{
+  "name": "smartcontracts",
+  "version": "1.0.0",
+  "description": "A simple contract used in the Blockchain Challenge",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenLars/SmartContracts.git"
+  },
+  "keywords": [
+    "smart",
+    "contracts",
+    "ethereum",
+    "solidity"
+  ],
+  "author": "OwenLars jose.uribea@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OwenLars/SmartContracts/issues"
+  },
+  "homepage": "https://github.com/OwenLars/SmartContracts#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
