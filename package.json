@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/OwenLars/SmartContracts#readme",
   "devDependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
   }
 }
